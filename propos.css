@@ -1,0 +1,103 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 80%;
+  background: wheat;
+  align-items: center;
+  text-align: center;
+  display: center;
+  line-height: 1.5;
+  font-weight: bold;
+}
+.entete{
+  color: white;
+  background-color: blue;
+}
+#logo img{
+  width: 20%;
+  height: 20%;
+  border-radius: 40px 40px;
+  
+}
+.moyen{
+  text-align: center;
+  align-items: center;
+  display: center;
+  justify-content: center;
+}
+.regle{
+  align-items: center;
+  display: inline-block;
+  font-size: 25px;
+  border: 1em solid blue;
+  border-radius: 6px 14px;
+}
+.regle h2{
+  text-decoration: underline;
+  text-decoration-color: chartreuse;
+}
+.regle h1{
+  border: 0.5em solid chartreuse;
+}
+.regle ol{
+  align-items: center;
+}
+#nce{
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  border: 0.5em solid red;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+#n{
+  margin-top: 55px;
+  font-size: 25px;
+  margin-bottom: 35px;
+  padding: 1em;
+  font-weight: bold;
+  
+}
+#bta{
+  background: white;
+  padding: 1.2em;
+  border-radius: 8px 14px;
+  margin-top: 80px;
+ margin-bottom: 100px;
+  font-size: 25px;
+  text-decoration: none;
+}
+#pf{
+  background: black;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+}
+#prea{
+  justify-content: center;
+  text-align: center;
+  border: 0.5em solid yellowgreen;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+#bts{
+  background: yellowgreen;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 1.5em;
+  border: 10px 10px;
+  margin-left: 20px;
+  margin-top: 100pxpx;
+  margin-bottom: 15px;
+  text-decoration: none;
+  border-radius: 10px 14px;
+}
+#db{
+  border: 2em solid blue;
+}
+
+#vo{
+  font-size: 10px;
+  margin-top: 10px;
+}
