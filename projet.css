@@ -1,0 +1,90 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  background-color: wheat;
+  font-weight: bold;
+  display: center;
+}
+.entt{
+  color: white;
+  background: blue;
+  width: 100%;
+}
+.entt img{
+  width: 20%;
+  height: 20%;
+  border-radius: 40px 40px;
+  margin: 0px 380px;
+}
+.entt h1{
+  align-items: center;
+  text-align: center;
+}
+.gil{
+  text-align: center;
+}
+.gil h2{
+  color: blue;
+}
+#image img{
+  width: 90%;
+  height: 60%;
+}
+#im img{
+  display: flex;
+  gap: 10px;
+  width: 40px;
+}
+#pttt{
+  background: black;
+  color: white;
+  font-size: 10px;
+}
+#bct{
+   border: 0.5em solid red;
+   text-align: center;
+   justify-content: center;
+   margin-left: 280px;
+  margin-top: 55px;
+}
+#bty{
+  display: flex;
+  margin-top: 20px;
+  font-weight: bold;
+  padding: 2em;
+  justify-content: center;
+  gap: 80px;
+  border-radius: 12px 18px;
+  margin-bottom: 55px;
+  
+}
+#btu{
+  background: white;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 1em;
+  border-radius: 10px 16px;
+}
+#bts{
+  padding: 2em;
+  font-size: 17px;
+  border-radius: 10px 10px;
+  background: yellowgreen;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#ooo{
+  text-align: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+#flav, h2{
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 55px;
+  margin-bottom: 55px;
+}
