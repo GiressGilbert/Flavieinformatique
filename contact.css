@@ -1,0 +1,104 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  background: wheat;
+}
+.entte{
+  background:blue;
+  width: 100%;
+  
+}
+.entte img{
+  width: 20%;
+  height: 20%;
+  border-radius: 40px 40px;
+}
+.entte h1{
+  color: white;
+  text-align: center;
+  align-items: center;
+}
+.entte img{
+  margin: 0px 80px 0px 400px;
+}
+input{
+  width: 600px;
+  height: 40px;
+  font-weight: bold;
+  border-radius: 12px 18px;
+  padding: 10px 15px;
+ 
+}
+#butt{
+  padding: 2em;
+  width: 30%;
+  color: white;
+  background: blue;
+  font-weight: bold;
+  font-size: 25px;
+  border-radius: 20px 25px;
+  margin: 0 90px;
+  
+}
+textarea{
+  width: 60%;
+  padding: 4em;
+}
+#bbbb{
+  color: blue;
+  text-decoration: underline;
+  text-decoration-style: double;
+  text-align: center;
+  
+}
+#pc{
+  background: black;
+  width: 100%;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+#bcp{
+  justify-content: center;
+  padding: 1em;
+  background: white;
+  color: black;
+  font-size: 35px;
+  font-weight: bold;
+  margin-top: 10%;
+  border-radius: 20px 26px;
+  gap: 200px;
+  margin-left: 55px;
+  margin-top: 55px;
+  text-decoration: none;
+  margin-bottom: 55px;
+}
+#btt{
+  padding: 2em;
+  background: yellowgreen;
+  border-radius: 8px 14px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  text-decoration: none;
+  margin-top: 55px;
+  margin-left: 40px;
+}
+#nce{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  border: 0.5em solid yellowgreen;
+  margin-bottom: 55px;
+  margin-top: 55px;
+  margin-left: 225px;
+}
+#bfi{
+  font-weight: bold;
+  font-size: 25px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
